@@ -18,7 +18,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/wallycameloferreira/verificador-de-multas.git
 cd nome-do-repo
 Instale as dependências necessárias:
 
